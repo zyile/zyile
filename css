@@ -105,5 +105,5 @@ img{
   left: 0;
   width: 0;
   height: 3px;
-  background: linear-gradient(to right, rgb(182, 182, 182),rgb(41, 41, 41));
+  background: linear-gradient(to right, blue,red);
 }
